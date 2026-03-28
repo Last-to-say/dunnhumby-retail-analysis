@@ -41,20 +41,20 @@ The dataset includes:
 ## 📦 Project Structure
 
 ### SQL Scripts
-- `01_create_tables.sql`
-- `02_load_data.sql`
-- `03_data_audit.sql`
-- `04_join_validation.sql`
-- `05_customer_analysis.sql`
-- `06_product_analysis.sql`
-- `07_coupon_analysis.sql`
-- `08_campaign_analysis.sql`
+- [01_create_tables.sql](sql/01_create_tables.sql)
+- [02_load_data.sql](sql/02_load_data.sql)
+- [03_data_audit.sql](sql/03_data_audit.sql)
+- [04_join_validation.sql](sql/04_join_validation.sql)
+- [05_customer_analysis.sql](sql/05_customer_analysis.sql)
+- [06_product_analysis.sql](sql/06_product_analysis.sql)
+- [07_coupon_analysis.sql](sql/07_coupon_analysis.sql)
+- [08_campaign_analysis.sql](sql/08_campaign_analysis.sql)
 
 ### Visualizations
-- `revenue_concentration.png`
-- `revenue_distribution_by_customer_segment.png`
-- `coupon_engagement_by_customer_segment.png`
-- `coupon_exposure_vs_redemption.png`
+- [Revenue Concentration](images/revenue_concentration.png)
+- [Revenue Distribution by Customer Segment](images/revenue_distribution_by_customer_segment.png)
+- [Coupon Engagement by Customer Segment](images/coupon_engagement_by_customer_segment.png)
+- [Coupon Exposure vs Redemption](images/coupon_exposure_vs_redemption.png)
 
 ---
 

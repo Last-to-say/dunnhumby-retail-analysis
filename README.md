@@ -39,21 +39,7 @@ The dataset includes:
 ---
 
 ## 🧱 Project Structure
-sql/
-├── 01_create_tables.sql
-├── 02_load_data.sql
-├── 03_data_audit.sql
-├── 04_join_validation.sql
-├── 05_customer_analysis.sql
-├── 06_product_analysis.sql
-├── 07_coupon_analysis.sql
-└── 08_campaign_analysis.sql
-
-images/
-├── revenue_concentration.png
-├── revenue_distribution_by_customer_segment.png
-├── coupon_engagement_by_customer_segment.png
-└── coupon_exposure_vs_redemption.png
+sql/ │ ├── 01_create_tables.sql ├── 02_load_data.sql ├── 03_data_audit.sql ├── 04_join_validation.sql ├── 05_customer_analysis.sql ├── 06_product_analysis.sql ├── 07_coupon_analysis.sql └── 08_campaign_analysis.sql images/ │ ├── revenue_concentration.png ├── revenue_distribution_by_customer_segment.png ├── coupon_engagement_by_customer_segment.png └── coupon_exposure_vs_redemption.png
 
 ---
 
